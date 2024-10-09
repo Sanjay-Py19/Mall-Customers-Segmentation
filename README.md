@@ -38,11 +38,11 @@ The dataset used in this project includes the following features:
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/mall-customers-segmentation.git
+   git clone https://github.com/Sanjay-Py19/Mall-Customers-Segmentation.git
    ```
 2. Install the required Python libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 3. Run the Jupyter notebook or Python script to preprocess the data, apply K-Means clustering, and generate visualizations.
 
