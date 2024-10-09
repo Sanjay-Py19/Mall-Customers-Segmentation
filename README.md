@@ -54,8 +54,6 @@ The dataset used in this project includes the following features:
 ## Conclusion
 This project demonstrates the effectiveness of K-Means clustering in segmenting mall customers based on spending patterns. The insights generated can help mall management improve marketing strategies and enhance customer satisfaction.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
 Let me know if you need any adjustments!
